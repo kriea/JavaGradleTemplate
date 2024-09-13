@@ -4,7 +4,6 @@ build/
 out/
 
 # Ignore dependency caches
-*.jar
 *.war
 *.ear
 **/libs/
